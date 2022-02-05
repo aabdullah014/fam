@@ -1,0 +1,35 @@
+<!--create index page-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masajid</title>
+</head>
+
+
+<body>
+    <h1>All Masajid</h1>
+
+    <div>
+        <a href="/masajid/new">Add Masjid</a>
+    </div>
+
+    <ul>
+        <% for(let masjid of masajid){ %>
+            <li>
+                <b>
+                    <a href="masajid/<%= masjid.id %>">
+                        <%= masjid.name %>
+                    </a>
+                </b>, <%= masjid.location %>
+            </li>
+            <% } %>
+
+    </ul>
+</body>
+
+</html>

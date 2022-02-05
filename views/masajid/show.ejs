@@ -1,0 +1,35 @@
+<!--create show page-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masjid Show</title>
+</head>
+
+<body>
+    <h1>
+        <%= masjid.name %>
+    </h1>
+    <h3>
+        <%= masjid.location %>
+    </h3>
+
+    <p>
+        <a href="/masajid/<%= masjid._id%>/edit">Edit</a>
+    </p>
+
+    <p>
+    <form action="/masajid/<%=masjid._id%>?_method=DELETE" method="POST">
+        <button>Delete</button>
+    </form>
+    </p>
+    <footer>
+        <a href="/masajid">All Masajid</a>
+    </footer>
+</body>
+
+</html>
