@@ -5,7 +5,7 @@ mongoose.connect('mongodb://localhost:27017/masjid-finder', {
     useUnifiedTopology: true
 });
 
-const masjid = require('./models/masjid')
+const Masjid = require('./models/masjid')
 const path = require('path');
 const db = mongoose.connection;
 
