@@ -1,35 +1,28 @@
-<!--create show page-->
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Masjid Show</title>
-</head>
-
-<body>
-    <h1>
-        <%= masjid.name %>
-    </h1>
-    <h3>
-        <%= masjid.location %>
-    </h3>
-
-    <p>
-        <a href="/masajid/<%= masjid._id%>/edit">Edit</a>
-    </p>
-
-    <p>
-    <form action="/masajid/<%=masjid._id%>?_method=DELETE" method="POST">
-        <button>Delete</button>
-    </form>
-    </p>
-    <footer>
-        <a href="/masajid">All Masajid</a>
-    </footer>
-</body>
-
-</html>
+<!--create show page with boilerplate-->
+<% layout('layouts/boilerplate') %>
+    <div class="row">
+        <div class="col-2 offset-3">
+            <div class="card mb-3" style="width: 18rem;">
+                <img class="card-img-top" src="<%= masjid.image %>" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <%= masjid.name %>>
+                    </h5>
+                    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas facilis
+                        perspiciatis nobis explicabo quia architecto suscipit, tempora libero inventore necessitatibus
+                        quis voluptatibus quae aliquid, delectus, enim vero eligendi quod adipisci.</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item text-muted">
+                        <%= masjid.location %>
+                    </li>
+                </ul>
+                <div class="card-body">
+                    <a class="card-link btn-secondary btn" href="/masajid/<%= masjid._id%>/edit">Edit</a>
+                    <form class="d-inline" action="/masajid/<%=masjid._id%>?_method=DELETE" method="POST">
+                        <button class="btn btn-danger">Delete</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>

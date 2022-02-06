@@ -1,5 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const ejsMate = require('ejs-mate');
 mongoose.connect('mongodb://localhost:27017/masjid-finder', {
     useNewUrlParser: true,
     useUnifiedTopology: true
@@ -20,6 +21,7 @@ const app = express();
 //set view engine to verify we will use ejs
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
+app.engine('ejs', ejsMate);
 
 //help parse req.body created from post request from new.ejs form
 app.use(express.urlencoded({ extended: true }));

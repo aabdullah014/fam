@@ -1,35 +1,28 @@
-<!--create index page-->
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Masajid</title>
-</head>
-
-
-<body>
+<!--create index page with boilerplate-->
+<% layout('layouts/boilerplate') %>
     <h1>All Masajid</h1>
 
     <div>
         <a href="/masajid/new">Add Masjid</a>
     </div>
 
-    <ul>
-        <% for(let masjid of masajid){ %>
-            <li>
-                <b>
-                    <a href="masajid/<%= masjid.id %>">
-                        <%= masjid.name %>
-                    </a>
-                </b>, <%= masjid.location %>
-            </li>
-            <% } %>
-
-    </ul>
-</body>
-
-</html>
+    <% for(let masjid of masajid){ %>
+        <div class="card">
+            <div class="row">
+                <div class="col-md-4">
+                    <img class="img-fluid" alt="" src="<%= masjid.image %>">
+                </div>
+                <div class="col-mg-8">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <%= masjid.name %>
+                        </h5>
+                        <p class="text-muted">
+                            <%= masjid.location %>
+                        </p>
+                        <a href="/masajid/<%=masjid.id%>" class="btn btn-success">View <%= masjid.name %></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <% } %>

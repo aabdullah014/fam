@@ -1,30 +1,29 @@
-<!--form to edit masjid-->
+<!--form to edit masjid with boilerplate-->
+<% layout('layouts/boilerplate') %>
+    <div class="row">
+        <h1 class="text-center">Add New Masjid</h1>
+        <div class="col-6 offset-3">
+            <form action="/masajid/<%= masjid._id%>?_method=PUT" method="POST">
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name</label>
+                    <input class="form-control" type="text" , id="name" , name="masjid[name]"
+                        value="<%= masjid.name %>">
+                </div>
+                <div class="mb-3">
+                    <label for="location" class="form-label">Location</label>
+                    <input class="form-control type=" text" , id="location" , name="masjid[location]"
+                        value="<%= masjid.location %>">
+                </div>
+                <div class="mb-3">
+                    <label for="image" class="form-label">Image URL</label>
+                    <input class="form-control type=" text" , id="image" , name="masjid[image]" value=<%=masjid.image
+                        %>>
+                </div>
+                <div class="mb-3">
+                    <button class="btn btn-success">Update Masjid</button>
+                </div>
+            </form>
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Edit Masjid</title>
-</head>
-
-<body>
-    <h1>Edit Masjid</h1>
-    <form action="/masajid/<%= masjid._id%>?_method=PUT" method="POST">
-        <div>
-            <label for="name">Name</label>
-            <input type="text" , id="name" , name="masjid[name]" value="<%= masjid.name %>">
+            <a href="/masajid">Back to All Masajid</a>
         </div>
-        <div>
-            <label for="location">Location</label>
-            <input type="text" , id="location" , name="masjid[location]" value="<%= masjid.location %>">
-        </div>
-        <button>Update Masjid</button>
-    </form>
-
-    <a href="/masajid/<%= masjid._id%>">Back</a>
-</body>
-
-</html>
+    </div>

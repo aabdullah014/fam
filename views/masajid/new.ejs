@@ -1,29 +1,27 @@
-<!--form to create new masjid-->
+<!--form to create new masjid with boilerplate-->
+<% layout('layouts/boilerplate') %>
+    <div class="row">
+        <h1 class="text-center">Add New Masjid</h1>
+        <div class="col-6 offset-3">
+            <form action="/masajid" method="POST">
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name</label>
+                    <input class="form-control" type="text" , id="name" , name="masjid[name]">
+                </div>
+                <div class="mb-3">
+                    <label for="location" class="form-label">Location</label>
+                    <input class="form-control type=" text" , id="location" , name="masjid[location]"
+                        placeholder="City, State">
+                </div>
+                <div class="mb-3">
+                    <label for="image" class="form-label">Image URL</label>
+                    <input class="form-control type=" text" , id="image" , name="masjid[image]">
+                </div>
+                <div class="mb-3">
+                    <button class="btn btn-success">Add Masjid</button>
+                </div>
+            </form>
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>New Masjid</title>
-</head>
-
-<body>
-    <form action="/masajid" method="POST">
-        <div>
-            <label for="name">Name</label>
-            <input type="text" , id="name" , name="masjid[name]">
+            <a href="/masajid">All Masajid</a>
         </div>
-        <div>
-            <label for="location">Location</label>
-            <input type="text" , id="location" , name="masjid[location]">
-        </div>
-        <button>Add Masjid</button>
-    </form>
-
-    <a href="/masajid">All Masajid</a>
-</body>
-
-</html>
+    </div>
