@@ -5,8 +5,13 @@ const Schema = mongoose.Schema;
 const masjidSchema = new Schema({
     name: String,
     image: String,
-    location: String,
-    description: String
+    street: String,
+    zipcode: Number,
+    country: String,
+    state: String,
+    city: String,
+    locality: String,
+    phone: String
 })
 
 

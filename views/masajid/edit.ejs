@@ -1,18 +1,59 @@
 <!--form to edit masjid with boilerplate-->
 <% layout('layouts/boilerplate') %>
     <div class="row">
-        <h1 class="text-center">Add New Masjid</h1>
+        <h1 class="text-center">Update Masjid</h1>
         <div class="col-6 offset-3">
-            <form action="/masajid/<%= masjid._id%>?_method=PUT" method="POST">
+            <form action="/masajid/<%= masjid._id%>?_method=PUT" method="POST" class="validated-form" novalidate>
                 <div class="mb-3">
                     <label for="name" class="form-label">Name</label>
-                    <input class="form-control" type="text" , id="name" , name="masjid[name]"
-                        value="<%= masjid.name %>">
+                    <input class="form-control" type="text" , id="name" , name="masjid[name]" value="<%= masjid.name %>"
+                        required>
+                    <div class="valid-feedback">
+                        Awesome!
+                    </div>
+                    <div class="invalid-feedback">
+                        Please provide a masjid name.
+                    </div>
                 </div>
                 <div class="mb-3">
-                    <label for="location" class="form-label">Location</label>
-                    <input class="form-control type=" text" , id="location" , name="masjid[location]"
-                        value="<%= masjid.location %>">
+                    <label for="street" class="form-label">Address</label>
+                    <input class="form-control" type="text" , id="street" , name="masjid[street]" value="<%=masjid.street
+                        %>">
+                </div>
+                <div class=" row">
+                    <div class="mb-3 col-9">
+                        <label for="city" class="form-label">City</label>
+                        <input class="form-control" type=" text" , id="city" , name="masjid[city]"
+                            value="<%= masjid.city %>" required>
+                        <div class="valid-feedback">
+                            Thanks!
+                        </div>
+                        <div class="invalid-feedback">
+                            Please provide a city.
+                        </div>
+                    </div>
+                    <div class="mb-3 col-3">
+                        <label for="state" class="form-label">State</label>
+                        <input class="form-control" type=" text" , id="state" , name="masjid[state]"
+                            value="<%= masjid.state %>" required>
+                        <div class="valid-feedback">
+                            Thanks!
+                        </div>
+                        <div class="invalid-feedback">
+                            Please provide a state in abbreviated format.
+                        </div>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="zipcode" class="form-label">Zipcode</label>
+                    <input class="form-control" type="number" , id="zipcode" , name="masjid[zipcode]"
+                        value="<%= masjid.zipcode %>" required>
+                    <div class="valid-feedback">
+                        Thanks!
+                    </div>
+                    <div class="invalid-feedback">
+                        Please provide a valid zipcode.
+                    </div>
                 </div>
                 <div class="mb-3">
                     <label for="image" class="form-label">Image URL</label>
@@ -27,3 +68,24 @@
             <a href="/masajid">Back to All Masajid</a>
         </div>
     </div>
+
+
+    <script>
+        (function () {
+            'use strict';
+            window.addEventListener('load', function () {
+                // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                const forms = document.getElementsByClassName('validated-form');
+                // Loop over them and prevent submission
+                var validation = Array.prototype.filter.call(forms, function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (form.checkValidity() === false) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                        }
+                        form.classList.add('was-validated');
+                    }, false);
+                });
+            }, false);
+        })();
+    </script>
