@@ -1,8 +1,8 @@
 <!--create show page with boilerplate-->
 <% layout('layouts/boilerplate') %>
     <div class="row">
-        <div class="col-2 offset-3">
-            <div class="card mb-3" style="width: 18rem;">
+        <div class="col-8">
+            <div class="card mb-3">
                 <img class="card-img-top" src="<%= masjid.image %>" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">
@@ -24,5 +24,40 @@
                     </form>
                 </div>
             </div>
+        </div>
+        <div class="col-4">
+            <h2>Leave a Review!</h2>
+            <form action="/masajid/<%=masjid._id%>/reviews" method="POST" class="mb-3 needs-validation" novalidate>
+                <div class="mb-3">
+                    <label class="form-label" for="rating">Rating</label>
+                    <input class="form-range" type="range" min="1" max="5" id="rating" name="review[rating]">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" for="body">Review</label>
+                    <textarea class="form-control" name="review[body]" id="body" cols="30" rows="3" required></textarea>
+                    <div class="valid-feedback">
+                        Thank you!
+                    </div>
+                </div>
+                <button class="btn btn-success">Submit</button>
+            </form>
+            <% for (let rev of masjid.reviews) { %>
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Rating: <%= rev.rating %>
+                        </h5>
+                        <form action="/masajid/<%=masjid._id%>/reviews/<%=rev._id%>?_method=DELETE" method="POST">
+                            <button class="btn btn-sm btn-danger">DELETE</button>
+                        </form>
+                        <div class="mb-3">
+                            <hr>
+                            <p>
+                                Review: <%= rev.body %>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <% } %>
         </div>
     </div>
