@@ -47,14 +47,14 @@
                         <h5 class="card-title">
                             Rating: <%= rev.rating %>
                         </h5>
-                        <form action="/masajid/<%=masjid._id%>/reviews/<%=rev._id%>?_method=DELETE" method="POST">
-                            <button class="btn btn-sm btn-danger">DELETE</button>
-                        </form>
                         <div class="mb-3">
                             <hr>
                             <p>
                                 Review: <%= rev.body %>
                             </p>
+                            <form action="/masajid/<%=masjid._id%>/reviews/<%=rev._id%>?_method=DELETE" method="POST">
+                                <button class="btn btn-sm btn-danger">DELETE</button>
+                            </form>
                         </div>
                     </div>
                 </div>
