@@ -3,7 +3,8 @@ const router = express.Router();
 const wrapAsync = require('../utils/wrapAsync');
 const expressError = require('../utils/ExpressError');
 const Masjid = require('../models/masjid');
-const { masjidSchema } = require('../schemas.js')
+const { masjidSchema } = require('../schemas.js');
+const { isLoggedIn } = require('../middleware');
 
 //joi validation on server side
 const validateMasjid = (req, res, next) => {
@@ -16,6 +17,9 @@ const validateMasjid = (req, res, next) => {
     }
 }
 
+//ensures user is logged in before doing protected actions
+
+
 //GET route to index of all masajid
 router.get('/', wrapAsync(async (req, res) => {
     const masajid = await Masjid.find({});
@@ -23,12 +27,12 @@ router.get('/', wrapAsync(async (req, res) => {
 }))
 
 //GET route to create a new masjid
-router.get('/new', (req, res) => {
+router.get('/new', isLoggedIn, (req, res) => {
     res.render('masajid/new');
 })
 
 //POST route to submit request
-router.post('/', validateMasjid, wrapAsync(async (req, res, next) => {
+router.post('/', isLoggedIn, validateMasjid, wrapAsync(async (req, res, next) => {
     // if (!req.body.masjid) throw new ExpressError('Invalid Masjid Data', 400)
     const masjid = new Masjid(req.body.masjid);
     await masjid.save();
@@ -47,7 +51,7 @@ router.get('/:id', wrapAsync(async (req, res) => {
 }))
 
 //GET route to edit a masjid
-router.get('/:id/edit', wrapAsync(async (req, res) => {
+router.get('/:id/edit', isLoggedIn, wrapAsync(async (req, res) => {
     const masjid = await Masjid.findById(req.params.id);
     if (!masjid) {
         req.flash('error', "Couldn't find that Masjid!");
@@ -57,7 +61,7 @@ router.get('/:id/edit', wrapAsync(async (req, res) => {
 }))
 
 //PUT request to update masjid
-router.put('/:id', validateMasjid, wrapAsync(async (req, res) => {
+router.put('/:id', isLoggedIn, validateMasjid, wrapAsync(async (req, res) => {
     const { id } = req.params;
     const masjid = await Masjid.findByIdAndUpdate(id, { ...req.body.masjid });
     if (!masjid) {
@@ -69,7 +73,7 @@ router.put('/:id', validateMasjid, wrapAsync(async (req, res) => {
 }))
 
 //DELETE request to delete masjid
-router.delete('/:id', wrapAsync(async (req, res) => {
+router.delete('/:id', isLoggedIn, wrapAsync(async (req, res) => {
     const { id } = req.params;
     await Masjid.findByIdAndDelete(id);
     req.flash('success', 'Successfully deleted a Masjid.');

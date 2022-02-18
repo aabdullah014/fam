@@ -2,10 +2,14 @@ const express = require('express');
 const mongoose = require('mongoose');
 const expressError = require('./utils/ExpressError');
 const ejsMate = require('ejs-mate');
-const masajid = require('./routes/masajid');
-const reviews = require('./routes/reviews');
+const masajidRoutes = require('./routes/masajid');
+const reviewsRoutes = require('./routes/reviews');
+const authRoutes = require('./routes/auth');
 const session = require('express-session');
 const flash = require('connect-flash');
+const passport = require('passport');
+const LocalStrategy = require('passport-local');
+const User = require('./models/user');
 
 mongoose.connect('mongodb://localhost:27017/masjid-finder', {
     useNewUrlParser: true,
@@ -42,6 +46,13 @@ const sessionConfig = {
 app.use(session(sessionConfig));
 app.use(flash());
 
+//passport authentication
+app.use(passport.initialize());
+app.use(passport.session());
+passport.use(new LocalStrategy(User.authenticate()));
+passport.serializeUser(User.serializeUser());
+passport.deserializeUser(User.deserializeUser());
+
 //help parse req.body created from post request from new.ejs form
 app.use(express.urlencoded({ extended: true }));
 
@@ -54,13 +65,15 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 //flash implementation where success is stored in res.locals
 app.use((req, res, next) => {
+    res.locals.currentUser = req.user;
     res.locals.success = req.flash('success');
     res.locals.error = req.flash('error');
     next();
 })
 
-app.use('/masajid', masajid);
-app.use('/masajid/:id/reviews', reviews);
+app.use('/', authRoutes);
+app.use('/masajid', masajidRoutes);
+app.use('/masajid/:id/reviews', reviewsRoutes);
 
 
 //error handling
