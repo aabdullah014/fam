@@ -4,6 +4,10 @@ const Schema = mongoose.Schema;
 
 //create Schema for Masjid.
 const masjidSchema = new Schema({
+    author: [{
+        type: Schema.Types.ObjectId,
+        ref: 'User'
+    }],
     name: String,
     image: String,
     street: String,

@@ -16,48 +16,62 @@
                     <li class="list-group-item text-muted">
                         <%= masjid.city %>, <%= masjid.state %>, <%= masjid.zipcode %>
                     </li>
+                    <li class="list-group-item text-muted">
+                        Submitted by <%= masjid.author[masjid.author.length-1].username %>
+                    </li>
                 </ul>
-                <div class="card-body">
-                    <a class="card-link btn-secondary btn" href="/masajid/<%= masjid._id%>/edit">Edit</a>
-                    <form class="d-inline" action="/masajid/<%=masjid._id%>?_method=DELETE" method="POST">
-                        <button class="btn btn-danger">Delete</button>
-                    </form>
-                </div>
+                <% if(currentUser && (isOwner || isAuthor )) {%>
+                    <div class="card-body">
+                        <a class="card-link btn-secondary btn" href="/masajid/<%= masjid._id%>/edit">Edit</a>
+                        <form class="d-inline" action="/masajid/<%=masjid._id%>?_method=DELETE" method="POST">
+                            <button class="btn btn-danger">Delete</button>
+                        </form>
+                    </div>
+                    <% } %>
             </div>
         </div>
         <div class="col-4">
-            <h2>Leave a Review!</h2>
-            <form action="/masajid/<%=masjid._id%>/reviews" method="POST" class="mb-3 needs-validation" novalidate>
-                <div class="mb-3">
-                    <label class="form-label" for="rating">Rating</label>
-                    <input class="form-range" type="range" min="1" max="5" id="rating" name="review[rating]">
-                </div>
-                <div class="mb-3">
-                    <label class="form-label" for="body">Review</label>
-                    <textarea class="form-control" name="review[body]" id="body" cols="30" rows="3" required></textarea>
-                    <div class="valid-feedback">
-                        Thank you!
+            <% if(currentUser) {%>
+                <h2>Leave a Review!</h2>
+                <form action="/masajid/<%=masjid._id%>/reviews" method="POST" class="mb-3 needs-validation" novalidate>
+                    <div class="mb-3">
+                        <label class="form-label" for="rating">Rating</label>
+                        <input class="form-range" type="range" min="1" max="5" id="rating" name="review[rating]">
                     </div>
-                </div>
-                <button class="btn btn-success">Submit</button>
-            </form>
-            <% for (let rev of masjid.reviews) { %>
-                <div class="card mb-3">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            Rating: <%= rev.rating %>
-                        </h5>
-                        <div class="mb-3">
-                            <hr>
-                            <p>
-                                Review: <%= rev.body %>
-                            </p>
-                            <form action="/masajid/<%=masjid._id%>/reviews/<%=rev._id%>?_method=DELETE" method="POST">
-                                <button class="btn btn-sm btn-danger">DELETE</button>
-                            </form>
+                    <div class="mb-3">
+                        <label class="form-label" for="body">Review</label>
+                        <textarea class="form-control" name="review[body]" id="body" cols="30" rows="3"
+                            required></textarea>
+                        <div class="valid-feedback">
+                            Thank you!
                         </div>
                     </div>
-                </div>
+                    <button class="btn btn-success">Submit</button>
+                </form>
                 <% } %>
+                    <% for (let rev of masjid.reviews) { %>
+                        <div class="card mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">
+                                    Rating: <%= rev.rating %>
+                                </h5>
+                                <h6 class="card-subtitle mb-2 text-muted">
+                                    <%=rev.author.username%>
+                                </h6>
+                                <div class="mb-3">
+                                    <hr>
+                                    <p>
+                                        Review: <%= rev.body %>
+                                    </p>
+                                    <% if(currentUser && rev.author.equals(currentUser)) {%>
+                                        <form action="/masajid/<%=masjid._id%>/reviews/<%=rev._id%>?_method=DELETE"
+                                            method="POST">
+                                            <button class="btn btn-sm btn-danger">DELETE</button>
+                                        </form>
+                                        <% } %>
+                                </div>
+                            </div>
+                        </div>
+                        <% } %>
         </div>
     </div>
