@@ -51,25 +51,29 @@
                 <% } %>
                     <% for (let rev of masjid.reviews) { %>
                         <div class="card mb-3">
-                            <div class="card-body">
-                                <h5 class="card-title">
-                                    Rating: <%= rev.rating %>
-                                </h5>
-                                <h6 class="card-subtitle mb-2 text-muted">
-                                    <%=rev.author.username%>
-                                </h6>
-                                <div class="mb-3">
-                                    <hr>
-                                    <p>
-                                        Review: <%= rev.body %>
-                                    </p>
-                                    <% if(currentUser && rev.author.equals(currentUser)) {%>
-                                        <form action="/masajid/<%=masjid._id%>/reviews/<%=rev._id%>?_method=DELETE"
-                                            method="POST">
-                                            <button class="btn btn-sm btn-danger">DELETE</button>
-                                        </form>
-                                        <% } %>
-                                </div>
+                            <div class="card-header">
+                                <%=rev.author.username%>:
+                                    <div class="fs-4">
+                                        <span class="text-warning">
+                                            <%for(let i=1; i <=rev.rating; i++){%>
+                                                &#9789
+                                                <% } %>
+                                        </span>
+                                        <%for(let i=1; i <=5-rev.rating; i++){%>
+                                            &#9789
+                                            <% } %>
+                                    </div>
+                            </div>
+                            <div class="card-body mb-3">
+                                <p>
+                                    Review: <%= rev.body %>
+                                </p>
+                                <% if(currentUser && rev.author.equals(currentUser)) {%>
+                                    <form action="/masajid/<%=masjid._id%>/reviews/<%=rev._id%>?_method=DELETE"
+                                        method="POST">
+                                        <button class="btn btn-sm btn-danger">DELETE</button>
+                                    </form>
+                                    <% } %>
                             </div>
                         </div>
                         <% } %>
