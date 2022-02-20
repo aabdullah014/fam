@@ -5,10 +5,12 @@ module.exports.masjidSchema = joi.object({
         name: joi.string().required(),
         city: joi.string().required(),
         street: joi.string(),
-        image: joi.string(),
         state: joi.string().required().min(2).max(2),
-        zipcode: joi.number().required().min(10000).max(99999)
-    }).required()
+        zipcode: joi.number().required().min(10000).max(99999),
+        description: joi.string().allow(null).allow(''),
+        phone: joi.string().allow(null).allow('')
+    }).required(),
+    deleteImages: joi.array()
 });
 
 

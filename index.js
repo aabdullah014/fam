@@ -1,3 +1,7 @@
+if (process.env.NODE_ENV !== "production") {
+    require('dotenv').config();
+}
+
 const express = require('express');
 const mongoose = require('mongoose');
 const expressError = require('./utils/ExpressError');
@@ -10,6 +14,7 @@ const flash = require('connect-flash');
 const passport = require('passport');
 const LocalStrategy = require('passport-local');
 const User = require('./models/user');
+
 
 mongoose.connect('mongodb://localhost:27017/masjid-finder', {
     useNewUrlParser: true,

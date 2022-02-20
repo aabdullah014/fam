@@ -12,6 +12,15 @@ module.exports.isLoggedIn = (req, res, next) => {
     next();
 }
 
+// module.exports.addMasjidImage = (req, res, next) => {
+//     const { id } = req.params;
+//     const masjid = Masjid.findById(id)
+//     if (!masjid.image) {
+//         masjid.image = "https://images.unsplash.com/photo-1494616150024-f6040d5220c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+//     }
+//     next();
+// }
+
 //joi validation on server side
 module.exports.validateMasjid = (req, res, next) => {
     const { error } = masjidSchema.validate(req.body);

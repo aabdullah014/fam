@@ -1,4 +1,8 @@
 const Masjid = require('../models/masjid');
+const { cloudinary } = require('../cloudinary');
+const mbxGeocoding = require('@mapbox/mapbox-sdk/services/geocoding');
+const mapBoxToken = process.env.MAPBOX_TOKEN;
+const geocoder = mbxGeocoding({ accessToken: mapBoxToken });
 
 
 module.exports.index = async (req, res) => {
@@ -10,10 +14,20 @@ module.exports.renderNewMasjid = (req, res) => {
     res.render('masajid/new');
 }
 
-module.exports.createMasjid = async (req, res, next) => {
+module.exports.createMasjid = async (req, res) => {
     const masjid = new Masjid(req.body.masjid);
+    const address = req.body.masjid.street.concat(', ', req.body.masjid.city).concat(', ', req.body.masjid.state).concat(' ', req.body.masjid.zipcode);
+    const geoData = await geocoder.forwardGeocode({
+        query: address,
+        limit: 1
+    }).send()
+    masjid.geometry = geoData.body.features[0].geometry;
+    masjid.image = req.files.map(f => ({ url: f.path, filename: f.filename }));
     masjid.author.push('620f14916417a70d6a1911f4');
     masjid.author.push(req.user._id);
+    if (masjid.phone && masjid.phone.length == 10) {
+        masjid.phone = masjid.phone.slice(0, 3) + "-" + masjid.phone.slice(3, 6) + "-" + masjid.phone.slice(6);
+    }
     await masjid.save();
     req.flash('success', 'Succesfully made a new masjid!');
     res.redirect(`/masajid/${masjid._id}`);
@@ -48,6 +62,15 @@ module.exports.renderEditMasjid = async (req, res) => {
 module.exports.updateMasjid = async (req, res) => {
     const { id } = req.params;
     const masjid = await Masjid.findById(id);
+    const imgs = req.files.map(f => ({ url: f.path, filename: f.filename }));
+    masjid.image.push(...imgs);
+    if (req.body.deleteImages) {
+        for (let filename of req.body.deleteImages) {
+            await cloudinary.uploader.destroy(filename);
+        }
+        await masjid.updateOne({ $pull: { image: { filename: { $in: req.body.deleteImages } } } })
+    }
+    await masjid.save();
     if (!masjid) {
         req.flash('error', "Couldn't find that Masjid!");
         return res.redirect('/masajid');
