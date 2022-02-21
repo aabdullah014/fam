@@ -8,7 +8,7 @@ module.exports.masjidSchema = joi.object({
         state: joi.string().required().min(2).max(2),
         zipcode: joi.number().required().min(10000).max(99999),
         description: joi.string().allow(null).allow(''),
-        phone: joi.string().allow(null).allow('')
+        phone: joi.string().min(10).max(10).allow(null).allow('')
     }).required(),
     deleteImages: joi.array()
 });

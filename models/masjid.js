@@ -11,6 +11,9 @@ const imageSchema = new Schema({
 imageSchema.virtual('thumbnail').get(function () {
     return this.url.replace('/upload', '/upload/w_200/h_200');
 })
+
+const opts = { toJSON: { virtuals: true } };
+
 //create Schema for Masjid.
 const masjidSchema = new Schema({
     author: [{
@@ -43,8 +46,12 @@ const masjidSchema = new Schema({
             type: Schema.Types.ObjectId, ref: 'Review'
         }
     ]
-})
+}, opts)
 
+masjidSchema.virtual('properties.popUpMarkup').get(function () {
+    return `<strong><a href = "/masajid/${this._id}">${this.name}</a></strong>
+    <p>${this.city}, ${this.state}</p>`
+})
 
 masjidSchema.post('findOneAndDelete', async function (doc) {
     if (doc) {

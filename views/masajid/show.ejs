@@ -1,70 +1,69 @@
 <!--create show page with boilerplate-->
 <% layout('layouts/boilerplate') %>
-
-    <script>
-        const mapToken = '<%-process.env.MAPBOX_TOKEN%>';
-    </script>
-
-    <div class="row">
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <div class="mt-5 row">
         <div class="col-8">
-
-            <div id='map' style='width: 450px; height: 300px;'></div>
-            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-                <div class="carousel-inner">
-                    <% masjid.image.forEach((img, i)=> { %>
-                        <div class="carousel-item <%=i ===0 ?'active' :''%>">
-                            <img class=" d-block w-100" src="<%= img.url %>" alt="">
-                        </div>
-                        <% }) %>
-                </div>
-                <% if(masjid.image.length> 1){ %>
-                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only"></span>
-                    </a>
-                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only"></span>
-                    </a>
-                    <% } %>
-            </div>
-            <div class="card mb-3">
+            <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">
-                        <%= masjid.name %>
-                    </h5>
-                    <p class="card-text">
-                        <% if(!masjid.description){ %>
-                            Add a description here, <%= masjid.author[masjid.author.length-1].username %>!
-                                <% } else{ %>
-                                    <%=masjid.description%>
-                                        <% } %>
-                    </p>
-                </div>
-                <ul class="list-group list-group-flush">
-                    <li class="list-group-item text-muted">
-                        <%= masjid.city %>, <%= masjid.state %>, <%= masjid.zipcode %>
-                    </li>
-                    <li class="list-group-item text-muted">
-                        Submitted by <%= masjid.author[masjid.author.length-1].username %>
-                            <% if(masjid.phone){ %>
-                                <div>
-                                    Contact <%= masjid.name %> at <%=masjid.phone%>!
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <% masjid.image.forEach((img, i)=> { %>
+                                <div class="carousel-item <%=i ===0 ?'active' :''%>">
+                                    <img class=" d-block w-100" src="<%= img.url %>" alt="">
                                 </div>
-                                <% } %>
-                    </li>
-                </ul>
-                <% if(currentUser && (isOwner || isAuthor )) {%>
-                    <div class="card-body">
-                        <a class="card-link btn-secondary btn" href="/masajid/<%= masjid._id%>/edit">Edit</a>
-                        <form class="d-inline" action="/masajid/<%=masjid._id%>?_method=DELETE" method="POST">
-                            <button class="btn btn-danger">Delete</button>
-                        </form>
+                                <% }) %>
+                        </div>
+                        <% if(masjid.image.length> 1){ %>
+                            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="sr-only"></span>
+                            </a>
+                            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="sr-only"></span>
+                            </a>
+                            <% } %>
                     </div>
-                    <% } %>
+                    <div class="card mb-3">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <%= masjid.name %>
+                            </h5>
+                            <p class="card-text">
+                                <% if(!masjid.description){ %>
+                                    Add a description here, <%= masjid.author[masjid.author.length-1].username %>!
+                                        <% } else{ %>
+                                            <%=masjid.description%>
+                                                <% } %>
+                            </p>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item text-muted">
+                                <%= masjid.city %>, <%= masjid.state %>, <%= masjid.zipcode %>
+                            </li>
+                            <li class="list-group-item text-muted">
+                                Submitted by <%= masjid.author[masjid.author.length-1].username %>
+                                    <% if(masjid.phone){ %>
+                                        <div>
+                                            Contact <%= masjid.name %> at <%=masjid.phone%>!
+                                        </div>
+                                        <% } %>
+                            </li>
+                        </ul>
+                        <% if(currentUser && (isOwner || isAuthor )) {%>
+                            <div class="card-body">
+                                <a class="card-link btn-secondary btn" href="/masajid/<%= masjid._id%>/edit">Edit</a>
+                                <form class="d-inline" action="/masajid/<%=masjid._id%>?_method=DELETE" method="POST">
+                                    <button class="btn btn-danger">Delete</button>
+                                </form>
+                            </div>
+                            <% } %>
+                    </div>
+                </div>
+                </div>
             </div>
-        </div>
         <div class="col-4">
+            <div id='map'></div>
             <% if(currentUser) {%>
                 <h2>Leave a Review!</h2>
                 <form action="/masajid/<%=masjid._id%>/reviews" method="POST" class="mb-3 needs-validation" novalidate>
@@ -113,5 +112,10 @@
                         <% } %>
         </div>
     </div>
+
+    <script>
+        const mapToken = '<%-process.env.MAPBOX_TOKEN%>';
+        const masjid = <%-JSON.stringify(masjid) %>;
+    </script>
 
     <script src="/scripts/showPageMap.js"></script>

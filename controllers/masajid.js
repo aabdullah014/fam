@@ -3,6 +3,9 @@ const { cloudinary } = require('../cloudinary');
 const mbxGeocoding = require('@mapbox/mapbox-sdk/services/geocoding');
 const mapBoxToken = process.env.MAPBOX_TOKEN;
 const geocoder = mbxGeocoding({ accessToken: mapBoxToken });
+const url = require('url');
+const bodyParser = require('body-parser');
+const querystring = require('querystring');
 
 
 module.exports.index = async (req, res) => {
@@ -85,4 +88,10 @@ module.exports.deleteMasjid = async (req, res) => {
     await Masjid.findByIdAndDelete(id);
     req.flash('success', 'Successfully deleted a Masjid.');
     res.redirect('/masajid/');
+}
+
+module.exports.searchMasajid = async (req, res) => {
+    const search = req.query.search;
+    const foundMasajid = await (Masjid.find({ name: { $regex: search, "$options": "i" } }));
+    res.render('masajid/results', { foundMasajid, search });
 }

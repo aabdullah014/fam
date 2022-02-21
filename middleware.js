@@ -12,14 +12,14 @@ module.exports.isLoggedIn = (req, res, next) => {
     next();
 }
 
-// module.exports.addMasjidImage = (req, res, next) => {
-//     const { id } = req.params;
-//     const masjid = Masjid.findById(id)
-//     if (!masjid.image) {
-//         masjid.image = "https://images.unsplash.com/photo-1494616150024-f6040d5220c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-//     }
-//     next();
-// }
+module.exports.addMasjidImage = (req, res, next) => {
+    const { id } = req.params;
+    const masjid = Masjid.findById(id)
+    if (!masjid.image) {
+        masjid.image = "https://res.cloudinary.com/djamcsili/image/upload/v1645310649/fam/photo-1494616150024-f6040d5220c0_qeig0p.jpg"
+    }
+    next();
+}
 
 //joi validation on server side
 module.exports.validateMasjid = (req, res, next) => {
@@ -58,7 +58,7 @@ module.exports.isAuthorized = async (req, res, next) => {
 module.exports.isReviewAuthor = async (req, res, next) => {
     const { id, reviewId } = req.params;
     const review = await Review.findById(reviewId);
-    if (!review.author.includes(req.user._id)) {
+    if (!review.author.equals(req.user._id)) {
         req.flash('error', 'You do not have permission to do that.')
         return res.redirect(`/masajid/${id}`);
     }

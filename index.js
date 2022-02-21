@@ -80,6 +80,9 @@ app.use('/', authRoutes);
 app.use('/masajid', masajidRoutes);
 app.use('/masajid/:id/reviews', reviewsRoutes);
 
+app.get('/', (req, res) => {
+    res.render('home')
+})
 
 //error handling
 app.all('*', (req, res, next) => {
