@@ -25,7 +25,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -68,7 +68,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -111,7 +111,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -154,7 +154,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -197,7 +197,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -240,7 +240,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -283,7 +283,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -326,7 +326,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -369,7 +369,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -412,7 +412,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -455,7 +455,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -498,7 +498,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -541,7 +541,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -584,7 +584,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -627,7 +627,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -670,7 +670,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -713,7 +713,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -756,7 +756,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -799,7 +799,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -842,7 +842,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -885,7 +885,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -928,7 +928,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -971,7 +971,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1014,7 +1014,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1057,7 +1057,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1100,7 +1100,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1143,7 +1143,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1186,7 +1186,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1229,7 +1229,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1272,7 +1272,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1315,7 +1315,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1334,7 +1334,7 @@ module.exports.masajid = [
     },
     {
         "author": ["620f14916417a70d6a1911f4"],
-        "name": " Masjid",
+        "name": "ISGH Baytown Islamic Center",
         "description": "ISGH Baytown Islamic Center -",
         "street": "4000 Emmett Hutto Blvd",
         "zipcode": "77521",
@@ -1358,7 +1358,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1401,7 +1401,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1444,7 +1444,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1487,7 +1487,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1530,7 +1530,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1573,7 +1573,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1616,7 +1616,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1659,7 +1659,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1702,7 +1702,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1745,7 +1745,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1788,7 +1788,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1831,7 +1831,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1874,7 +1874,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1917,7 +1917,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -1960,7 +1960,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2003,7 +2003,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2046,7 +2046,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2089,7 +2089,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2132,7 +2132,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2175,7 +2175,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2218,7 +2218,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2261,7 +2261,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2280,7 +2280,7 @@ module.exports.masajid = [
     },
     {
         "author": ["620f14916417a70d6a1911f4"],
-        "name": " New Territory Masjid",
+        "name": "New Territory Masjid",
         "description": "ISGH Maryam Islamic Center -",
         "street": "504 Sartartia Rd",
         "zipcode": "77479",
@@ -2304,7 +2304,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2347,7 +2347,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2390,7 +2390,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2433,7 +2433,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2476,7 +2476,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2519,7 +2519,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2562,7 +2562,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2581,7 +2581,7 @@ module.exports.masajid = [
     },
     {
         "author": ["620f14916417a70d6a1911f4"],
-        "name": " Masjid",
+        "name": "Clear Lake Islamic Center",
         "description": "Clear Lake Islamic Center -",
         "street": "17511 El Camino Real",
         "zipcode": "77058",
@@ -2605,7 +2605,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2648,7 +2648,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2691,7 +2691,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2734,7 +2734,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2777,7 +2777,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2820,7 +2820,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2863,7 +2863,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2906,7 +2906,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2949,7 +2949,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -2992,7 +2992,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3035,7 +3035,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3054,7 +3054,7 @@ module.exports.masajid = [
     },
     {
         "author": ["620f14916417a70d6a1911f4"],
-        "name": " Masjid",
+        "name": "Islamic Society of Greater Houston",
         "description": "Islamic Society of Greater Houston -",
         "street": "3110 Eastside St",
         "zipcode": "77098",
@@ -3078,7 +3078,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3121,7 +3121,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3164,7 +3164,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3207,7 +3207,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3250,7 +3250,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3293,7 +3293,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3312,7 +3312,7 @@ module.exports.masajid = [
     },
     {
         "author": ["620f14916417a70d6a1911f4"],
-        "name": " Masjid Isa ibn Maryam",
+        "name": "Masjid Isa ibn Maryam",
         "description": "ISGH Northshore",
         "street": "13818 Brownsville St",
         "zipcode": "77015",
@@ -3336,7 +3336,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3379,7 +3379,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3422,7 +3422,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3465,7 +3465,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3508,7 +3508,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3551,7 +3551,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3594,7 +3594,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3637,7 +3637,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3680,7 +3680,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3723,7 +3723,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3766,7 +3766,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3809,7 +3809,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3852,7 +3852,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3895,7 +3895,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3938,7 +3938,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -3981,7 +3981,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4024,7 +4024,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4067,7 +4067,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4110,7 +4110,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4153,7 +4153,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4196,7 +4196,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4239,7 +4239,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4282,7 +4282,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4325,7 +4325,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4368,7 +4368,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4411,7 +4411,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4454,7 +4454,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4497,7 +4497,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4540,7 +4540,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4583,7 +4583,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4626,7 +4626,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4669,7 +4669,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4712,7 +4712,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4755,7 +4755,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4798,7 +4798,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4841,7 +4841,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4884,7 +4884,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4927,7 +4927,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -4970,7 +4970,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5013,7 +5013,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5056,7 +5056,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5099,7 +5099,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5142,7 +5142,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5185,7 +5185,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5228,7 +5228,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5271,7 +5271,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5314,7 +5314,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5357,7 +5357,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5400,7 +5400,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5443,7 +5443,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5486,7 +5486,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5529,7 +5529,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5572,7 +5572,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5615,7 +5615,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5658,7 +5658,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5701,7 +5701,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5744,7 +5744,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5787,7 +5787,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5830,7 +5830,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5873,7 +5873,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5916,7 +5916,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -5959,7 +5959,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6002,7 +6002,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6045,7 +6045,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6088,7 +6088,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6131,7 +6131,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6174,7 +6174,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6217,7 +6217,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6260,7 +6260,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6303,7 +6303,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6346,7 +6346,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6389,7 +6389,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6432,7 +6432,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6475,7 +6475,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6518,7 +6518,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6561,7 +6561,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6604,7 +6604,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6647,7 +6647,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6690,7 +6690,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6733,7 +6733,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6776,7 +6776,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6819,7 +6819,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6862,7 +6862,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6905,7 +6905,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6948,7 +6948,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -6991,7 +6991,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7034,7 +7034,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7077,7 +7077,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7120,7 +7120,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7163,7 +7163,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7206,7 +7206,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7249,7 +7249,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7292,7 +7292,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7335,7 +7335,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7378,7 +7378,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7421,7 +7421,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7464,7 +7464,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7507,7 +7507,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7550,7 +7550,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7593,7 +7593,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7636,7 +7636,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7679,7 +7679,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7722,7 +7722,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7765,7 +7765,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7808,7 +7808,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7851,7 +7851,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7894,7 +7894,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7937,7 +7937,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -7980,7 +7980,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8023,7 +8023,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8066,7 +8066,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8109,7 +8109,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8152,7 +8152,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8195,7 +8195,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8238,7 +8238,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8281,7 +8281,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8324,7 +8324,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8367,7 +8367,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8410,7 +8410,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8453,7 +8453,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8496,7 +8496,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8539,7 +8539,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8582,7 +8582,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8625,7 +8625,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8668,7 +8668,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8711,7 +8711,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8754,7 +8754,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8797,7 +8797,7 @@ module.exports.masajid = [
             "isha": "",
             "jumah": ""
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8840,7 +8840,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8883,7 +8883,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8926,7 +8926,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -8969,7 +8969,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9012,7 +9012,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9055,7 +9055,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9098,7 +9098,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9141,7 +9141,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9184,7 +9184,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9227,7 +9227,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9270,7 +9270,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9313,7 +9313,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9356,7 +9356,7 @@ module.exports.masajid = [
             "isha": "",
             "jumah": ""
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9399,7 +9399,7 @@ module.exports.masajid = [
             "isha": "",
             "jumah": ""
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9442,7 +9442,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9485,7 +9485,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9528,7 +9528,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9571,7 +9571,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9614,7 +9614,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9657,7 +9657,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9700,7 +9700,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9743,7 +9743,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9786,7 +9786,7 @@ module.exports.masajid = [
             "isha": "",
             "jumah": ""
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9829,7 +9829,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9872,7 +9872,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9915,7 +9915,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -9958,7 +9958,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10001,7 +10001,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10044,7 +10044,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10087,7 +10087,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10130,7 +10130,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10173,7 +10173,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10216,7 +10216,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10259,7 +10259,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10302,7 +10302,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10345,7 +10345,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10388,7 +10388,7 @@ module.exports.masajid = [
             "isha": "",
             "jumah": ""
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10431,7 +10431,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10474,7 +10474,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10517,7 +10517,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10560,7 +10560,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10603,7 +10603,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10646,7 +10646,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10689,7 +10689,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10732,7 +10732,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10775,7 +10775,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10818,7 +10818,7 @@ module.exports.masajid = [
             "isha": "",
             "jumah": ""
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10861,7 +10861,7 @@ module.exports.masajid = [
             "isha": "",
             "jumah": ""
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10904,7 +10904,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10947,7 +10947,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -10990,7 +10990,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11033,7 +11033,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11076,7 +11076,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11119,7 +11119,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11162,7 +11162,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11205,7 +11205,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11248,7 +11248,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11291,7 +11291,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11334,7 +11334,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11377,7 +11377,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11420,7 +11420,7 @@ module.exports.masajid = [
             "isha": "",
             "jumah": ""
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11463,7 +11463,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11506,7 +11506,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11549,7 +11549,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11592,7 +11592,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11635,7 +11635,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11678,7 +11678,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11721,7 +11721,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11764,7 +11764,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11807,7 +11807,7 @@ module.exports.masajid = [
             "isha": "",
             "jumah": ""
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11850,7 +11850,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11893,7 +11893,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11936,7 +11936,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -11979,7 +11979,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12022,7 +12022,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12065,7 +12065,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12108,7 +12108,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12151,7 +12151,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12194,7 +12194,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12237,7 +12237,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12280,7 +12280,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12323,7 +12323,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12366,7 +12366,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12409,7 +12409,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12452,7 +12452,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12495,7 +12495,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12538,7 +12538,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12581,7 +12581,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12624,7 +12624,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12667,7 +12667,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12710,7 +12710,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12753,7 +12753,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12796,7 +12796,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12839,7 +12839,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12882,7 +12882,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12925,7 +12925,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -12968,7 +12968,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13011,7 +13011,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13054,7 +13054,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13097,7 +13097,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13140,7 +13140,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13183,7 +13183,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13226,7 +13226,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13269,7 +13269,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13309,7 +13309,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13352,7 +13352,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13394,7 +13394,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13436,7 +13436,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13478,7 +13478,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13520,7 +13520,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13562,7 +13562,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',
@@ -13604,7 +13604,7 @@ module.exports.masajid = [
             "isha": null,
             "jumah": null
         },
-        "Distance": null,
+        "distance": null,
         "image": [
             {
                 url: 'https://res.cloudinary.com/djamcsili/image/upload/v1645312302/fam/lvrtmri1mgxh6mc4mg8g.jpg',

@@ -18,6 +18,7 @@ router.route('/')
 router.get('/new', isLoggedIn, masajid.renderNewMasjid)
 
 router.get('/results', wrapAsync(masajid.searchMasajid));
+router.get('/sort', wrapAsync(masajid.sortMasajid));
 
 router.route('/:id')
     //GET route to show page of a masjid

@@ -14,9 +14,14 @@ const flash = require('connect-flash');
 const passport = require('passport');
 const LocalStrategy = require('passport-local');
 const User = require('./models/user');
+const cookieParser = require('cookie-parser');
+const mongoSanitize = require('express-mongo-sanitize');
+const MongoStore = require('connect-mongo');
+
+const dbUrl = 'mongodb://localhost:27017/masjid-finder';
 
 
-mongoose.connect('mongodb://localhost:27017/masjid-finder', {
+mongoose.connect(dbUrl, {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
@@ -37,19 +42,36 @@ app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 app.engine('ejs', ejsMate);
 
+//store session in mongo instead of memory
+const store = MongoStore.create({
+    mongoUrl: dbUrl,
+    touchAfter: 24 * 60 * 60,
+    crypto: {
+        secret: 'secretysec'
+    }
+})
+
+store.on("error", function (e) {
+    console.log("Session Store Error:", e)
+})
+
 //implementation of sessions
 const sessionConfig = {
+    store,
+    name: 'session',
     secret: 'secretysecret',
     resave: false,
     saveUninitialized: true,
     cookie: {
         httpOnly: true,
+        // secure: true,
         expires: Date.now() + 1000 * 60 * 60 * 24,
         maxAge: 1000 * 60 * 60 * 24
     }
 }
 app.use(session(sessionConfig));
 app.use(flash());
+app.use(cookieParser());
 
 //passport authentication
 app.use(passport.initialize());
@@ -67,6 +89,8 @@ app.use(methodOverride('_method'));
 //serve public assets
 app.use(express.static(path.join(__dirname, 'public')));
 
+//prevent keys that contain $ or a period
+app.use(mongoSanitize())
 
 //flash implementation where success is stored in res.locals
 app.use((req, res, next) => {

@@ -35,6 +35,7 @@ const masjidSchema = new Schema({
     image: [imageSchema],
     street: String,
     zipcode: Number,
+    distance: Number,
     country: String,
     state: String,
     city: String,

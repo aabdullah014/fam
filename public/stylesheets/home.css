@@ -15,13 +15,13 @@ body{
 .nav-link{
     padding: 0.25rem 0;
     font-weight: 570;
-    color: rgba(168, 250, 175, 0.3);
+    color: rgba(89, 255, 139, 0.37);
     margin-left: 1rem;
     border-bottom: 0.25rem solid transparent;
 }
 .nav-link-p{
     font-weight: 570;
-    color: rgba(168, 250, 175, 0.3);
+    color: rgb(89,255,139,.37);
     border-bottom: 0.25rem solid transparent;
 }
 

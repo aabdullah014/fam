@@ -9,6 +9,7 @@ module.exports.createReview = async (req, res) => {
     masjid.reviews.push(review);
     await review.save();
     await masjid.save();
+
     req.flash('success', 'Successfully created a new review!');
     res.redirect(`/masajid/${masjid._id}`);
 }
@@ -19,5 +20,4 @@ module.exports.deleteReview = async (req, res) => {
     await Review.findByIdAndDelete(reviewId);
     req.flash('success', 'Successfully deleted a review.');
     res.redirect(`/masajid/${id}`)
-
 }
