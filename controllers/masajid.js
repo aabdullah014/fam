@@ -4,7 +4,6 @@ const mbxGeocoding = require('@mapbox/mapbox-sdk/services/geocoding');
 const User = require('../models/user');
 const mapBoxToken = process.env.MAPBOX_TOKEN;
 const geocoder = mbxGeocoding({ accessToken: mapBoxToken });
-const requestIp = require('@supercharge/request-ip');
 
 
 module.exports.index = async (req, res) => {

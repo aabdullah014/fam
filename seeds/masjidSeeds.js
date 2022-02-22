@@ -1,6 +1,6 @@
 module.exports.masajid = [
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "El-Ber Masjid",
         "description": null,
         "street": "3607 30th St",
@@ -43,7 +43,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al Firdaus",
         "description": null,
         "street": "207 W 135th St",
@@ -86,7 +86,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ar-Rahman",
         "description": null,
         "street": "15 W 29th St",
@@ -129,7 +129,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Farooq",
         "description": null,
         "street": "Atlantic Ave",
@@ -172,7 +172,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Manhattan",
         "description": null,
         "street": "30 Cliff St",
@@ -215,7 +215,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid AQSA-SALAM",
         "description": null,
         "street": "23 E 115th St",
@@ -258,7 +258,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Assalam Wal Khair",
         "description": null,
         "street": "527 Malcolm X Blvd",
@@ -301,7 +301,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Rizvi Jamia Masjid",
         "description": null,
         "street": "294-298 Grove St",
@@ -344,7 +344,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Malcolm Shabazz Mosque",
         "description": null,
         "street": "W 116th St",
@@ -387,7 +387,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid al-Tawheed",
         "description": null,
         "street": "1227 Sutter St",
@@ -430,7 +430,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al Ashab",
         "description": null,
         "street": "1233 Vine St",
@@ -473,7 +473,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Falah",
         "description": null,
         "street": "14918 Jefferson Davis Hwy",
@@ -516,7 +516,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Noor Al-Islam",
         "description": null,
         "street": "118 Jones St",
@@ -559,7 +559,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Asr",
         "description": null,
         "street": "2533 Elliott Ave",
@@ -602,7 +602,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Zia Ul Quran",
         "description": null,
         "street": "2425 Carter Dr",
@@ -645,7 +645,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid As-Sahaba",
         "description": null,
         "street": "711 W High School Rd",
@@ -688,7 +688,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al Mumineen",
         "description": null,
         "street": "4088 Millersville Rd",
@@ -731,7 +731,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Of Ivy City",
         "description": null,
         "street": "2001 Gallaudet St NE",
@@ -774,7 +774,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Bilal",
         "description": null,
         "street": "1701 Dumesnil St",
@@ -817,7 +817,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid NASFAT ",
         "description": "- Atlanta Branch",
         "street": "3165 Park Chase",
@@ -860,7 +860,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Nigerian Islamic Center of Indianapolis",
         "description": null,
         "street": "1608 Blackmore Dr",
@@ -903,7 +903,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "New Masjid Al Ashab",
         "description": null,
         "street": "933 Bank St",
@@ -946,7 +946,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ahlul Quran Wal Hadeeth",
         "description": null,
         "street": "3415 18th St NE",
@@ -989,7 +989,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "River Road Mosque",
         "description": "Louisville Islamic Center (River Road Mosque)",
         "street": "4007 River Rd",
@@ -1032,7 +1032,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Bosniak American Islamic Center of Louisville",
         "description": null,
         "street": "5927 Six Mile Ln",
@@ -1075,7 +1075,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Dar Al-Noor Islamic Community Center",
         "description": null,
         "street": "5404 Hoadly Rd",
@@ -1118,7 +1118,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Fazl-i-Umar Dayton Mosque",
         "description": null,
         "street": "637 Randolph St",
@@ -1161,7 +1161,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Indianapolis",
         "description": null,
         "street": "2846 Cold Spring Rd",
@@ -1204,7 +1204,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Avondale Islamic Center",
         "description": null,
         "street": "4637 Eastern Avenue",
@@ -1247,7 +1247,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Guiding Light Islamic Center",
         "description": null,
         "street": "6500 Six Mile Ln",
@@ -1290,7 +1290,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Taqwa",
         "description": "Muslim Community Center",
         "street": "4836 Mt Vernon Dr",
@@ -1333,7 +1333,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "ISGH Baytown Islamic Center",
         "description": "ISGH Baytown Islamic Center -",
         "street": "4000 Emmett Hutto Blvd",
@@ -1376,7 +1376,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "MAS Katy Center",
         "description": null,
         "street": "1800 Baker Rd",
@@ -1419,7 +1419,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Shadow Creek Muslim Community Center",
         "description": null,
         "street": "12230 Shadow Creek Pkwy",
@@ -1462,7 +1462,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid-ul-Haqq",
         "description": null,
         "street": "514 Islamic Way",
@@ -1505,7 +1505,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Randallstown Islamic Center",
         "description": null,
         "street": "3117 Rices Ln",
@@ -1548,7 +1548,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Bait Allah Masjid",
         "description": null,
         "street": "1407 W Pratt St",
@@ -1591,7 +1591,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Muhammed Mosque",
         "description": null,
         "street": "3306 Garrison Blvd",
@@ -1634,7 +1634,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Dar Al-Taqwa",
         "description": null,
         "street": "10740 MD-108",
@@ -1677,7 +1677,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Fatima",
         "description": null,
         "street": "1928 Powers Ln",
@@ -1720,7 +1720,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "An-Nur Foundation of MD Inc",
         "description": null,
         "street": "10801 Philadelphia Rd",
@@ -1763,7 +1763,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Kingwood Islamic Center",
         "description": null,
         "street": "22001 E Martin Dr",
@@ -1806,7 +1806,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al Falaah",
         "description": "Harford County Education Society Masjid Al Falaah",
         "street": "3014 Philadelphia Rd",
@@ -1849,7 +1849,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Mosque",
         "description": null,
         "street": "USA",
@@ -1892,7 +1892,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid E Mohammedi",
         "description": null,
         "street": "17730 Coventry Park Dr",
@@ -1935,7 +1935,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ad-Dawah ilat At-Tawheed",
         "description": null,
         "street": "1125 Appleton St",
@@ -1978,7 +1978,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Prince Georges Muslim Association",
         "description": null,
         "street": "9150 Lanham Severn Rd",
@@ -2021,7 +2021,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Dar-e-Abbas Islamic Center",
         "description": null,
         "street": "12121 Veterans Memorial Dr",
@@ -2064,7 +2064,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Makkah Learning Center",
         "description": null,
         "street": "814 Brandy Farms Ln",
@@ -2107,7 +2107,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al Salam",
         "description": " - Champions Islamic Center",
         "street": "16700 Old Louetta Rd",
@@ -2150,7 +2150,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Mu'miniin",
         "description": null,
         "street": "2646 Harford Rd",
@@ -2193,7 +2193,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Diyanet Center of America",
         "description": null,
         "street": "9704 Good Luck Rd",
@@ -2236,7 +2236,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid ElFarouq.",
         "description": null,
         "street": "1207 Conrad Sauer Dr",
@@ -2279,7 +2279,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "New Territory Masjid",
         "description": "ISGH Maryam Islamic Center -",
         "street": "504 Sartartia Rd",
@@ -2322,7 +2322,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Faizan e madinah",
         "description": null,
         "street": "1724 Woodlawn Dr",
@@ -2365,7 +2365,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Education Center - League City",
         "description": null,
         "street": "2619 Kentucky Ave",
@@ -2408,7 +2408,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Aqsa",
         "description": null,
         "street": "2810 Saddlehorn Trail",
@@ -2451,7 +2451,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Abu Bakr Siddque ",
         "description": null,
         "street": "8830 Galveston Rd",
@@ -2494,7 +2494,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al Ihsan",
         "description": null,
         "street": "3723 Gwynn Oak Ave",
@@ -2537,7 +2537,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Taleem Muhammad",
         "description": null,
         "street": "511 E 40th 1/2 St",
@@ -2580,7 +2580,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Clear Lake Islamic Center",
         "description": "Clear Lake Islamic Center -",
         "street": "17511 El Camino Real",
@@ -2623,7 +2623,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "IMAAM Center",
         "description": null,
         "street": "9100 Georgia Ave",
@@ -2666,7 +2666,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid At-Tawhid",
         "description": null,
         "street": "5514 Hirsch Rd",
@@ -2709,7 +2709,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Sahabah",
         "description": null,
         "street": "14577 Whispering Oaks Dr",
@@ -2752,7 +2752,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "American Fazl Mosque",
         "description": null,
         "street": "77357",
@@ -2795,7 +2795,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Ghous-e-Azam Masjid",
         "description": null,
         "street": "5511 FM 1960",
@@ -2838,7 +2838,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Education Center",
         "description": null,
         "street": "2313 S Voss Rd",
@@ -2881,7 +2881,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Clearlake IQRA Center",
         "description": null,
         "street": "16400 Sea Lark Rd",
@@ -2924,7 +2924,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ibn Taymiyyah",
         "description": null,
         "street": "8000 Martin Luther King Jr Hwy",
@@ -2967,7 +2967,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Community Center of Laurel",
         "description": null,
         "street": "7306 Contee Rd",
@@ -3010,7 +3010,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Da'wah Center",
         "description": null,
         "street": "201 Travis St",
@@ -3053,7 +3053,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Society of Greater Houston",
         "description": "Islamic Society of Greater Houston -",
         "street": "3110 Eastside St",
@@ -3096,7 +3096,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Pearland Islamic Center - ISGH",
         "description": null,
         "street": "1530 Garden Rd",
@@ -3139,7 +3139,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Jamaat al-Muslimeen",
         "description": "Masjid??",
         "street": "4624 York Rd",
@@ -3182,7 +3182,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Nigerian Muslim Council of USA",
         "description": null,
         "street": "4411 41st St",
@@ -3225,7 +3225,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Ansarudeen Society of Nigeria",
         "description": null,
         "street": "6124 Baltimore Ave",
@@ -3268,7 +3268,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Huda Inc",
         "description": null,
         "street": "5301 Edgewood Rd",
@@ -3311,7 +3311,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Isa ibn Maryam",
         "description": "ISGH Northshore",
         "street": "13818 Brownsville St",
@@ -3354,7 +3354,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Maryum Islamic Center",
         "description": null,
         "street": "9150 Rumsey Rd A4",
@@ -3397,7 +3397,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Quba Islamic Institute",
         "description": null,
         "street": "730 Fm 1959 Rd",
@@ -3440,7 +3440,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Zam Zam",
         "description": null,
         "street": "1510 Lynch Rd",
@@ -3483,7 +3483,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Nation of Islam",
         "description": null,
         "street": "4443 Old Spanish Trail",
@@ -3526,7 +3526,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Musalla - Masjid",
         "description": "ISGH Wilcrest ",
         "street": "11246 Wilcrest Dr",
@@ -3569,7 +3569,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Houston Masjid of Al-Islam",
         "description": null,
         "street": "6641 Bellfort Ave",
@@ -3612,7 +3612,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Adam Masjid",
         "description": null,
         "street": "341 Southwestern Blvd",
@@ -3655,7 +3655,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Faizan e Madinah",
         "description": null,
         "street": "12829 Capricorn St",
@@ -3698,7 +3698,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid At Taqwa",
         "description": "ISGH ",
         "street": "10415 Synott Rd",
@@ -3741,7 +3741,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid As-Sabireen ",
         "description": null,
         "street": "610 Brand Ln",
@@ -3784,7 +3784,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Jama Mecca Masjid",
         "description": null,
         "street": "15001 Beechnut St",
@@ -3827,7 +3827,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Faizan e Madinah Masjid",
         "description": null,
         "street": "13130 Alston Rd",
@@ -3870,7 +3870,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Almeda Masjid",
         "description": null,
         "street": "6923 Almeda Rd",
@@ -3913,7 +3913,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Ibrahim Islamic Center",
         "description": null,
         "street": "5215 Almeda Rd",
@@ -3956,7 +3956,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid-ul Mumineen",
         "description": null,
         "street": "8875 Benning Dr",
@@ -3999,7 +3999,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Madrasa Darul Huda Masjid",
         "description": null,
         "street": "12006 Trickey Rd",
@@ -4042,7 +4042,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "New Almeda Masjid (Masjid Mishkah MCIS)",
         "description": null,
         "street": "2222 Mansard St",
@@ -4085,7 +4085,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Society",
         "description": "Greater Chattanooga",
         "street": "2533 Gunbarrel Rd",
@@ -4128,7 +4128,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Jonesboro",
         "description": null,
         "street": "118 N Rogers St",
@@ -4171,7 +4171,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Tulsa Masjid Alkhalifa",
         "description": "North Tulsa Islamic Center",
         "street": "4502 N Lewis Ave",
@@ -4214,7 +4214,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Davis",
         "description": null,
         "street": "539 Russell Blvd",
@@ -4257,7 +4257,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Hatemi Masjid",
         "description": null,
         "street": "998 San Antonio Rd",
@@ -4300,7 +4300,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ash-Shaheed",
         "description": null,
         "street": "400 W Sugar Creek Rd",
@@ -4343,7 +4343,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Memphis Islamic Center (MIC)",
         "description": null,
         "street": "10225 Humphrey Rd",
@@ -4386,7 +4386,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Annur",
         "description": null,
         "street": "6990 65th St",
@@ -4429,7 +4429,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ar-Rahman - Islamic Association of Greater Memphis",
         "description": null,
         "street": "7906 Lowrance Rd",
@@ -4472,7 +4472,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Rahman",
         "description": null,
         "street": "1110 36th St",
@@ -4515,7 +4515,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "San Ramon Valley Islamic Center",
         "description": null,
         "street": "2230-",
@@ -4558,7 +4558,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Middle Ga",
         "description": null,
         "street": "2501 Elberta Rd",
@@ -4601,7 +4601,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al Salam",
         "description": null,
         "street": "525 University Dr",
@@ -4644,7 +4644,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Hassan Center",
         "description": null,
         "street": "1433 Fretz Dr",
@@ -4687,7 +4687,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Northeast Denver Islamic Center",
         "description": null,
         "street": "3400 Albion Street",
@@ -4730,7 +4730,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Shuhada",
         "description": "Colorado Dawah Islamic Center",
         "street": "2952 N Downing St",
@@ -4773,7 +4773,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Rocky Mountain Islamic Center",
         "description": null,
         "street": "8054 W Jewell Ave",
@@ -4816,7 +4816,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Madina Center",
         "description": null,
         "street": "8606 CA-99",
@@ -4859,7 +4859,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Midtown Mosque",
         "description": "Midtown Mosque, 1288 Jackson Ave, Memphis, TN 38107, USA",
         "street": "1288 Jackson Ave",
@@ -4902,7 +4902,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Little Rock",
         "description": null,
         "street": "3224 Anna St",
@@ -4945,7 +4945,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Mu'min",
         "description": null,
         "street": "1322 NE 23rd St",
@@ -4988,7 +4988,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "American Muslim Association",
         "description": null,
         "street": "3201 NW 48th St",
@@ -5031,7 +5031,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Burmese Muslims Community of Amarillo Texas",
         "description": null,
         "street": "1124",
@@ -5074,7 +5074,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Umar ibn Alkhattab",
         "description": null,
         "street": "16251 E Colfax Ave",
@@ -5117,7 +5117,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Mosque of Islamic Society NV",
         "description": null,
         "street": "4730 E Desert Inn Rd",
@@ -5160,7 +5160,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Mu-Minum",
         "description": null,
         "street": "1510 Harriet Tubman Dr",
@@ -5203,7 +5203,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Farooq Islamic Center",
         "description": "Al-Farooq Islamic Center, 1421 4th Ave S, Nashville, TN 37210, USA",
         "street": "1421 4th Ave S",
@@ -5246,7 +5246,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Salahadeen Center of Nashville",
         "description": null,
         "street": "364 Elysian Fields Ct",
@@ -5289,7 +5289,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Greeley Islamic Center",
         "description": null,
         "street": "1600 8th Ave",
@@ -5332,7 +5332,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ibrahim",
         "description": null,
         "street": "3799 W Edward Ave",
@@ -5375,7 +5375,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "League of Associated Muslims",
         "description": "Sacramento Area League of Associated Muslims",
         "street": "4545 College Oak Dr",
@@ -5418,7 +5418,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Faizan-E-Madinah Masjid",
         "description": null,
         "street": "4110 N Freeway Blvd",
@@ -5461,7 +5461,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Muslim Mosque Association",
         "description": null,
         "street": "411 V St",
@@ -5504,7 +5504,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Darulislam",
         "description": null,
         "street": "2449 Buena Vista Ave",
@@ -5547,7 +5547,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Noor",
         "description": null,
         "street": "1330 Cutting Blvd",
@@ -5590,7 +5590,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Berkeley Masjid",
         "description": null,
         "street": "2716 Derby St",
@@ -5633,7 +5633,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Mosque 36",
         "description": null,
         "street": "203 N Cloudman St",
@@ -5676,7 +5676,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Muslim Community of Knoxville",
         "description": null,
         "street": "100 13th St",
@@ -5719,7 +5719,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Muslim Society of Memphis",
         "description": null,
         "street": "1065 Stratford Rd",
@@ -5762,7 +5762,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Noor",
         "description": " Islamic Association of Greater Memphis",
         "street": "3529 Mynders Ave",
@@ -5805,7 +5805,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center-Human Excllnc",
         "description": null,
         "street": "1717 Wright Ave",
@@ -5848,7 +5848,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Macon",
         "description": null,
         "street": "2131 Vineville Ave",
@@ -5891,7 +5891,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Community Mosque of High Point",
         "description": null,
         "street": "222 Spring Hill Church Rd",
@@ -5934,7 +5934,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center",
         "description": "Williamson County",
         "street": "320 Mallory Station Rd",
@@ -5977,7 +5977,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Society of Greater Ok",
         "description": null,
         "street": "3815 St Clair Ave",
@@ -6020,7 +6020,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Amarillo",
         "description": null,
         "street": "601 Quail Creek Dr",
@@ -6063,7 +6063,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Mill Valley",
         "description": null,
         "street": "62 Shell Rd",
@@ -6106,7 +6106,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Society of Clemson",
         "description": null,
         "street": "1009 Old Stone Church Rd",
@@ -6149,7 +6149,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Society of Gastonia",
         "description": null,
         "street": "4020 Titman Rd",
@@ -6192,7 +6192,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Community Mosque of WS",
         "description": "Community Mosque of WS, 1419 Waughtown St, Winston-Salem, NC 27107, USA",
         "street": "1419 Waughtown St",
@@ -6235,7 +6235,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Morganton",
         "description": null,
         "street": "203 Bethel St",
@@ -6278,7 +6278,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Nation of Islam Muhammad Msq",
         "description": null,
         "street": "873 Vance Ave",
@@ -6321,7 +6321,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Boulder",
         "description": null,
         "street": "5495 Baseline Rd",
@@ -6364,7 +6364,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Ahl-Al-Beit",
         "description": null,
         "street": "Denver",
@@ -6407,7 +6407,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Denver Islamic Society",
         "description": null,
         "street": "2124 S Birch St",
@@ -6450,7 +6450,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Northern Nevada Muslim Community Center",
         "description": null,
         "street": "1855 Oddie Blvd",
@@ -6493,7 +6493,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Contra Costa",
         "description": null,
         "street": "2836 Clayton Rd",
@@ -6536,7 +6536,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ahlus Sunnah",
         "description": null,
         "street": "2911 E Market St",
@@ -6579,7 +6579,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Zahra Islamic Center",
         "description": "Al-Zahra Islamic Center, 3720 N Natchez Ct, Nashville, TN 37211, USA",
         "street": "3720 N Natchez Ct",
@@ -6622,7 +6622,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Golden",
         "description": null,
         "street": "1940 Ford St",
@@ -6665,7 +6665,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "California Islamic Center",
         "description": null,
         "street": "12882 Lower Sacramento Rd",
@@ -6708,7 +6708,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid (Mosque)",
         "description": null,
         "street": "Mosque",
@@ -6751,7 +6751,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of High Point",
         "description": null,
         "street": "200 W Market Center Dr",
@@ -6794,7 +6794,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Bentonville Islamic Center",
         "description": null,
         "street": "1801 SW 2nd St",
@@ -6837,7 +6837,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Zahraa Islamic Center",
         "description": null,
         "street": "2885 S Bryant St",
@@ -6880,7 +6880,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Fort Collins",
         "description": "Islamic Center of Fort Collins, 925 W Lake St, Fort Collins, CO 80521, USA",
         "street": "925 W Lake St",
@@ -6923,7 +6923,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid AL-AZHAR",
         "description": null,
         "street": "1852 Fulton Ave",
@@ -6966,7 +6966,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Charlotte",
         "description": null,
         "street": "1700 Progress Ln",
@@ -7009,7 +7009,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Dalton Islamic Center",
         "description": null,
         "street": "2054 Dug Gap Rd",
@@ -7052,7 +7052,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Mu'minun",
         "description": null,
         "street": "4412 S 3rd St",
@@ -7095,7 +7095,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Attaqwa",
         "description": null,
         "street": "1819 Winchester Rd",
@@ -7138,7 +7138,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ikhlas",
         "description": "Metropolitan Denver North Islamic Center",
         "street": "11141 Irma Dr",
@@ -7181,7 +7181,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid As-Salam",
         "description": null,
         "street": "222 W E Main St",
@@ -7224,7 +7224,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Tennessee",
         "description": null,
         "street": "5400 Bell Forge Ln E",
@@ -7267,7 +7267,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Northwest Arkansas",
         "description": null,
         "street": "1420 W Center St",
@@ -7310,7 +7310,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Abu Bakr",
         "description": "Colorado Muslim Society - ",
         "street": "2071 S Parker Rd",
@@ -7353,7 +7353,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Muslim Association of Hawaii",
         "description": null,
         "street": "1935 Aleo Pl",
@@ -7396,7 +7396,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Lake Norman",
         "description": null,
         "street": "120 S Park Dr",
@@ -7439,7 +7439,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Dawoodi Bohra Masjid",
         "description": null,
         "street": "Fremont",
@@ -7482,7 +7482,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Zahra Islamic Center",
         "description": null,
         "street": "5227 Monroe Rd",
@@ -7525,7 +7525,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Hassan Islamic Center",
         "description": null,
         "street": "1582 S Parker Rd",
@@ -7568,7 +7568,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Ahmadiyya Muslim Community",
         "description": null,
         "street": "Bait ul Tawheed",
@@ -7611,7 +7611,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid As-Sabur",
         "description": null,
         "street": "711 Morgan Ave",
@@ -7654,7 +7654,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "South Sacramento Islamic Center",
         "description": null,
         "street": "7285 25th St",
@@ -7697,7 +7697,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ibrahim Islamic Center",
         "description": null,
         "street": "3449 Rio Linda Blvd",
@@ -7740,7 +7740,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Fort Smith Islamic Center",
         "description": null,
         "street": "1800 S Albert Pike Ave",
@@ -7783,7 +7783,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid-e-Tawheed 🕌",
         "description": null,
         "street": "6180 W Viking Rd",
@@ -7826,7 +7826,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Society of Rancho Cordova (Masjid)",
         "description": null,
         "street": "2951 Sunrise Blvd",
@@ -7869,7 +7869,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Ahmadiyya Muslim Community East Bay",
         "description": null,
         "street": "520 Pacifica Ave",
@@ -7912,7 +7912,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Fajr",
         "description": null,
         "street": "2846 Cold Spring Rd",
@@ -7955,7 +7955,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Iman",
         "description": null,
         "street": "1429 NE 2nd St",
@@ -7998,7 +7998,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Frankfort",
         "description": null,
         "street": "741 Schenkel Ln,Frankfort",
@@ -8041,7 +8041,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Dar Al-Qalam Islamic Center",
         "description": null,
         "street": "81 County Rd 153",
@@ -8084,7 +8084,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Bilal Ibn Rabah",
         "description": null,
         "street": "1545 Russell Cave Rd",
@@ -8127,7 +8127,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "South Side Mussalla",
         "description": null,
         "street": "Wellington Way",
@@ -8170,7 +8170,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Louisville",
         "description": null,
         "street": "1715 S 4th St",
@@ -8213,7 +8213,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Wahyain",
         "description": null,
         "street": "2429 University Ave W",
@@ -8256,7 +8256,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al Nur Mosque",
         "description": null,
         "street": "2815 S 4th St",
@@ -8299,7 +8299,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Huda",
         "description": "Islamic Cultural Community Center",
         "street": "2534 Central Ave NE",
@@ -8342,7 +8342,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Dar Al-Farooq",
         "description": null,
         "street": "983 17th Ave SE",
@@ -8385,7 +8385,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Dar Al-Hijrah",
         "description": null,
         "street": "504 Cedar Ave S",
@@ -8428,7 +8428,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center Nur",
         "description": null,
         "street": "1073 Lawrenceville Hwy",
@@ -8471,7 +8471,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Abubakar Islamic Center Mosque Inc.",
         "description": null,
         "street": "1536 S 7th St",
@@ -8514,7 +8514,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Omar Islamic Center",
         "description": null,
         "street": "912 E 24th St",
@@ -8557,7 +8557,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "The Islamic Center of Lexington",
         "description": null,
         "street": "649 S Limestone",
@@ -8600,7 +8600,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Abubakar As-Sadique Islamic Center",
         "description": null,
         "street": "2824 13th Ave S",
@@ -8643,7 +8643,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Suwanee Musallah",
         "description": "Gwinnett Islamic Circle / Suwanee Musallah",
         "street": "50 Old Peachtree Rd NE Suite 211",
@@ -8686,7 +8686,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Gwinnett Masjid",
         "description": null,
         "street": "826 Buford Hwy NE",
@@ -8729,7 +8729,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Abu Bakr Siddik",
         "description": null,
         "street": "1960 Harrison Ave",
@@ -8772,7 +8772,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Rahman",
         "description": "",
         "street": "1235 Peachtree Pkwy",
@@ -8815,7 +8815,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Rasulullah",
         "description": "http://masjidr.wordpress.com",
         "street": "5300 Silver Pine Dr",
@@ -8858,7 +8858,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Charleston Central Mosque",
         "description": null,
         "street": "1082 King St",
@@ -8901,7 +8901,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Assunnah",
         "description": null,
         "street": "1254 Bates Ave",
@@ -8944,7 +8944,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Maryam",
         "description": null,
         "street": "3650 Savannah Pl Dr",
@@ -8987,7 +8987,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid al-Fayza",
         "description": null,
         "street": "255 E Flagler St",
@@ -9030,7 +9030,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Foundation of Villa Park",
         "description": null,
         "street": "300 W Highridge Rd",
@@ -9073,7 +9073,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Uthman",
         "description": null,
         "street": "840 Oak Creek Dr",
@@ -9116,7 +9116,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Mustafa",
         "description": null,
         "street": "300 E 55th St",
@@ -9159,7 +9159,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Westside Islamic Center",
         "description": null,
         "street": "3840 W Roosevelt Rd",
@@ -9202,7 +9202,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Tri Cities",
         "description": null,
         "street": "2900 Bombing Range Rd",
@@ -9245,7 +9245,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Snoqualmie Mosque",
         "description": null,
         "street": "35324 SE Center St g",
@@ -9288,7 +9288,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Portland",
         "description": null,
         "street": "10323 SW 43rd Ave",
@@ -9331,7 +9331,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Cultural Center-Greater",
         "description": "",
         "street": "1800 Pfingsten Rd",
@@ -9374,7 +9374,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Baitul Ilm Academy",
         "description": "",
         "street": "485 S Bartlett Rd",
@@ -9417,7 +9417,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid-E-Suffah",
         "description": null,
         "street": "8201 Karlov Ave",
@@ -9460,7 +9460,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "KALEEMULLAH MASJID",
         "description": null,
         "street": "4255 Main St",
@@ -9503,7 +9503,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Nigerian Islamic Center of Chicago",
         "description": null,
         "street": "932 W Sheridan Rd",
@@ -9546,7 +9546,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Lackawanna Islamic Mosque",
         "description": null,
         "street": "154 Wilkesbarre St",
@@ -9589,7 +9589,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Everett Muslim Community Center",
         "description": null,
         "street": "500 Southeast Everett Mall Way B110",
@@ -9632,7 +9632,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Kent",
         "description": null,
         "street": "20857 108th Ave SE",
@@ -9675,7 +9675,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Schaumburg - Masjid Al-Huda",
         "description": null,
         "street": "1081 Irving Park Rd",
@@ -9718,7 +9718,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "MSI Masjid",
         "description": null,
         "street": "1785 Bloomingdale Rd",
@@ -9761,7 +9761,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Naperville",
         "description": "",
         "street": "2844 Ogden Ave",
@@ -9804,7 +9804,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Mu'minun",
         "description": null,
         "street": "337 S Sacramento Blvd",
@@ -9847,7 +9847,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "South Suburban Islamic Center Of Harvey",
         "description": null,
         "street": "15200 Broadway Ave",
@@ -9890,7 +9890,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Taqwa",
         "description": null,
         "street": "40 Parker Ave",
@@ -9933,7 +9933,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic House",
         "description": null,
         "street": "5612 21st Pl NE",
@@ -9976,7 +9976,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Seattle",
         "description": null,
         "street": "3040 S 150th St",
@@ -10019,7 +10019,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Seattle Seven Hills Mosque and Education Center",
         "description": null,
         "street": "27124 20th Pl S",
@@ -10062,7 +10062,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center Of Western Suburbs",
         "description": "ICIWS",
         "street": "28W774 E Army Trail Rd",
@@ -10105,7 +10105,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Dar-us-Sunnah Mosque",
         "description": null,
         "street": "2045 Brown Ave",
@@ -10148,7 +10148,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Dar Al-Tauheed Masjid",
         "description": null,
         "street": "736 S Francisco Ave",
@@ -10191,7 +10191,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Tacoma",
         "description": null,
         "street": "2010 Bridgeport Way W",
@@ -10234,7 +10234,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Kitsap County",
         "description": null,
         "street": "1140 Marine Dr",
@@ -10277,7 +10277,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center Of Mukilteom",
         "description": null,
         "street": "200",
@@ -10320,7 +10320,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Society of Northwest Suburbs",
         "description": null,
         "street": "3950 Industrial Ave",
@@ -10363,7 +10363,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Nahda Community Center and Banquet",
         "description": "",
         "street": "10555 SW Hwy",
@@ -10406,7 +10406,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Taqwa Masjid",
         "description": null,
         "street": "5117 N Sheridan Rd",
@@ -10449,7 +10449,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al Furqan Islamic Center",
         "description": null,
         "street": "7410 NE Martin Luther King Jr Blvd",
@@ -10492,7 +10492,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "ICC Lombard",
         "description": null,
         "street": "1620 Highland Ave",
@@ -10535,7 +10535,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "House of Wisdom (Dar-ul-Hikmah)",
         "description": null,
         "street": "11615 W Layton Ave",
@@ -10578,7 +10578,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Huda Masjid Mosqe",
         "description": null,
         "street": "25650 101st Ave SE",
@@ -10621,7 +10621,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Noor",
         "description": null,
         "street": "9403 18th Ave SW",
@@ -10664,7 +10664,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Alsalam Islamic Center",
         "description": null,
         "street": "12653 Des Moines Memorial Dr",
@@ -10707,7 +10707,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid E Noor",
         "description": null,
         "street": "6151 N Greenview Ave",
@@ -10750,7 +10750,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Chicago Central Mosque ",
         "description": null,
         "street": "3617 W Belle Plaine Ave",
@@ -10793,7 +10793,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "American Islamic Association",
         "description": "",
         "street": "8860 W Saint Francis Rd",
@@ -10836,7 +10836,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Illiana Islamic Association",
         "description": "",
         "street": "9606 Spring St",
@@ -10879,7 +10879,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al Farooq",
         "description": "8950 S Stony Island Ave, Chicago, IL 60617, USA",
         "street": "8950 S Stony Island Ave",
@@ -10922,7 +10922,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Tawheed Islamic Center Inc",
         "description": null,
         "street": "8726 S Halsted St",
@@ -10965,7 +10965,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Zakariya",
         "description": null,
         "street": "182 Sobieski St",
@@ -11008,7 +11008,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of North Seattle",
         "description": null,
         "street": "12530 Lake City Way NE",
@@ -11051,7 +11051,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Spokane",
         "description": null,
         "street": "6411 E 2nd Ave",
@@ -11094,7 +11094,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Community Center of Des Plaines",
         "description": null,
         "street": "480 Potter Rd",
@@ -11137,7 +11137,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "ICOM",
         "description": null,
         "street": "3840 Harbour Pointe Blvd SW",
@@ -11180,7 +11180,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Eastside",
         "description": null,
         "street": "14700 Main St",
@@ -11223,7 +11223,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Abode of Kindness Mosque",
         "description": null,
         "street": "23515 Old Owen Rd",
@@ -11266,7 +11266,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid An-Noor",
         "description": null,
         "street": "7108 NE Glisan St",
@@ -11309,7 +11309,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Mosque Foundation",
         "description": null,
         "street": "7360 W 93rd St",
@@ -11352,7 +11352,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Chicago",
         "description": null,
         "street": "3357 W 63rd St",
@@ -11395,7 +11395,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Amin Mosque",
         "description": "",
         "street": "3702 W 11th Ave",
@@ -11438,7 +11438,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Bothell",
         "description": null,
         "street": "3300 Monte Villa Pkwy",
@@ -11481,7 +11481,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Bilal Masjid",
         "description": null,
         "street": "4115 SW 160th Ave",
@@ -11524,7 +11524,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Mosque of Umar",
         "description": null,
         "street": "Chicago",
@@ -11567,7 +11567,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Nu'man",
         "description": null,
         "street": "1373 Fillmore Ave",
@@ -11610,7 +11610,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid As-Sunnah Inc",
         "description": null,
         "street": "494 Goodman St N",
@@ -11653,7 +11653,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Iman Center",
         "description": null,
         "street": "515 State St S",
@@ -11696,7 +11696,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Tukwila",
         "description": null,
         "street": "14101 Tukwila International Blvd",
@@ -11739,7 +11739,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Dar Al-Aman",
         "description": null,
         "street": "25569 Hillview Ct",
@@ -11782,7 +11782,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Al-Azhar Islamic Foundation",
         "description": "",
         "street": "160 Hawthorne Rd",
@@ -11825,7 +11825,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Jameel",
         "description": null,
         "street": "625 N Swift Rd",
@@ -11868,7 +11868,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Darussalam",
         "description": null,
         "street": "21W525 North Ave",
@@ -11911,7 +11911,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Wheaton",
         "description": null,
         "street": "900 E Geneva Rd",
@@ -11954,7 +11954,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "ICN Al-Hidayah",
         "description": null,
         "street": "450 Olesen Dr",
@@ -11997,7 +11997,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Faizan-e-Madinah",
         "description": null,
         "street": "6821 N Western Ave",
@@ -12040,7 +12040,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Ahmadiyya Muslim Community Seattle",
         "description": null,
         "street": "23515 Old Owen Rd",
@@ -12083,7 +12083,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islam Presentation and Invitation Center",
         "description": null,
         "street": "2301 S Jackson St",
@@ -12126,7 +12126,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Muslim Educational Trust",
         "description": null,
         "street": "10330 SW Scholls Ferry Rd",
@@ -12169,7 +12169,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Oakbrook Terrace",
         "description": null,
         "street": "1S270 Summit Ave",
@@ -12212,7 +12212,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Cami Funk - Desinger",
         "description": "3828 4th Ave S, Seattle, WA 98134, USA",
         "street": "3828 4th Ave S",
@@ -12255,7 +12255,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "High Point Masjid",
         "description": null,
         "street": "6558 35th Ave SW",
@@ -12298,7 +12298,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Omar Farooq",
         "description": null,
         "street": "11937 SE Stark St",
@@ -12341,7 +12341,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid hameedia",
         "description": null,
         "street": "N Greenview Ave",
@@ -12384,7 +12384,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Chicago",
         "description": null,
         "street": "5933 N Lincoln Ave",
@@ -12427,7 +12427,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Hafeez Inc., NFP",
         "description": null,
         "street": "607 E 75th St",
@@ -12470,7 +12470,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "ISM University Center",
         "description": null,
         "street": "2223 E Kenwood Blvd",
@@ -12513,7 +12513,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Abubaker Masjid (mosque)",
         "description": null,
         "street": "2 NE 80th Ave",
@@ -12556,7 +12556,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Germantown Masjid",
         "description": null,
         "street": "4944 Germantown Ave",
@@ -12599,7 +12599,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Ahmadiyya Muslim Community, Masjid Bait-ul-Jaamay",
         "description": null,
         "street": "2S510 IL-53",
@@ -12642,7 +12642,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "MCC Masjid ",
         "description": null,
         "street": "8601 Menard Ave",
@@ -12685,7 +12685,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Ahlul Bait Center",
         "description": null,
         "street": "2425 Main St",
@@ -12728,7 +12728,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Noor/ISM West",
         "description": null,
         "street": "16670 Pheasant Dr",
@@ -12771,7 +12771,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Taqwa Mosque",
         "description": null,
         "street": "N 67th St",
@@ -12814,7 +12814,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Sammamish Mosque",
         "description": null,
         "street": "22011 SE 20th St",
@@ -12857,7 +12857,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Quran'an",
         "description": null,
         "street": "11723 W Brown Deer Rd",
@@ -12900,7 +12900,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Rochester",
         "description": null,
         "street": "727 Westfall Rd",
@@ -12943,7 +12943,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Idris Mosque",
         "description": null,
         "street": "1420 NE Northgate Way",
@@ -12986,7 +12986,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Bethany Musallah",
         "description": null,
         "street": "15188 NW Central Dr",
@@ -13029,7 +13029,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Taqwa",
         "description": null,
         "street": "8211 S Exchange Ave",
@@ -13072,7 +13072,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Ar-Rahman",
         "description": null,
         "street": "5135 N Teutonia Ave",
@@ -13115,7 +13115,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Everett",
         "description": null,
         "street": "818 84th St W",
@@ -13158,7 +13158,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Federal Way",
         "description": null,
         "street": "3304 S 272nd St",
@@ -13201,7 +13201,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of Portland",
         "description": null,
         "street": "6940 SW Hall Blvd",
@@ -13244,7 +13244,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Ahmadiyya Movement In Islam",
         "description": null,
         "street": "9925 SW 35th Dr",
@@ -13287,7 +13287,7 @@ module.exports.masajid = [
         ],
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Canton Islamic Center",
         "description": null,
         "street": "5840 N Canton Center Rd #218",
@@ -13331,7 +13331,7 @@ module.exports.masajid = [
         "description": "Add your description here!"
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Muslim Community of Western Suburbs",
         "street": "40440 Palmer Rd",
         "zipcode": 48188,
@@ -13373,7 +13373,7 @@ module.exports.masajid = [
         "description": "Add your description here!"
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Muslim Community Mosque Phoenix",
         "street": "1818 N 32nd St",
         "zipcode": 85008,
@@ -13415,7 +13415,7 @@ module.exports.masajid = [
         "description": "Add your description here!"
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Center of North Phoenix",
         "street": "13246 N 23rd Ave",
         "zipcode": 85029,
@@ -13457,7 +13457,7 @@ module.exports.masajid = [
         "description": "Add your description here!"
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Al-Rahma",
         "street": "6625 Johnnycake Rd",
         "zipcode": 21244,
@@ -13499,7 +13499,7 @@ module.exports.masajid = [
         "description": "Add your description here!"
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Masjid Bilal",
         "street": "1525 Ridge Rd N",
         "zipcode": 48187,
@@ -13541,7 +13541,7 @@ module.exports.masajid = [
         "description": "Add your description here!"
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Hoda Center",
         "street": "5220 SW 13th St",
         "zipcode": 32608,
@@ -13583,7 +13583,7 @@ module.exports.masajid = [
         "description": "Add your description here!"
     },
     {
-        "author": ["620f14916417a70d6a1911f4"],
+        "author": ["62140a3737d6e4ae0b5e3ab6"],
         "name": "Islamic Community Center of Gainesville",
         "street": "1010 W University Ave",
         "zipcode": 32608,
