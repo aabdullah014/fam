@@ -18,8 +18,8 @@ const cookieParser = require('cookie-parser');
 const mongoSanitize = require('express-mongo-sanitize');
 const MongoStore = require('connect-mongo');
 
-const dbUrl = 'mongodb://localhost:27017/masjid-finder';
-
+const dbUrl = process.env.DB_URL || 'mongodb://localhost:27017/masjid-finder';
+const secret = process.env.SECRET || 'secretysec'
 
 mongoose.connect(dbUrl, {
     useNewUrlParser: true,
@@ -47,7 +47,7 @@ const store = MongoStore.create({
     mongoUrl: dbUrl,
     touchAfter: 24 * 60 * 60,
     crypto: {
-        secret: 'secretysec'
+        secret: secret
     }
 })
 
@@ -59,7 +59,7 @@ store.on("error", function (e) {
 const sessionConfig = {
     store,
     name: 'session',
-    secret: 'secretysecret',
+    secret: secret,
     resave: false,
     saveUninitialized: true,
     cookie: {
